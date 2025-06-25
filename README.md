@@ -29,11 +29,11 @@ This is one of my first hands-on projects to understand how grid systems work in
 
 ## 📁 File Structure
 
-chessboardlayout-project/
-├── index.html 
-├── style.css 
-├── chessBoardLayout.png 
-└── README.md
+chessboard/
+├── index.html # Main HTML file
+├── style.css # Custom CSS for layout
+├── chessBoardLayout.png # Project Screenshot
+└── README.md # This file
 
 
 <hr/>
