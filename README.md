@@ -11,6 +11,13 @@ This is one of my first hands-on projects to understand how grid systems work in
 
 <hr/>
 
+## 🎥 Video Demo
+
+Wanna see it in action? Check out this video 👇  
+▶️ [Chessboard Layout Demo](https://youtu.be/aKr3pPfSKS4)
+
+<hr/>
+
 ## 🧰 Tech Stack
 
 - 🟧 HTML5  
