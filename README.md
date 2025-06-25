@@ -48,7 +48,7 @@ chessboardlayout-project/
 
 ## 🔗 Try It Out
 
-👉 [Live Demo on GitHub Pages](https://your-username.github.io/chessboard-project/)  
+👉 [Live Demo on GitHub Pages](https://rakesh12531.github.io/chessboardlayout-project/)  
 
 <hr/>
 
