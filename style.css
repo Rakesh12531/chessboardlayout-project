@@ -1,0 +1,38 @@
+html{
+    background-color:rgb(180, 180, 180);
+}
+
+body{
+    height:800px;
+    width:800px;
+    background-color:white;
+    margin:50px auto;
+    border:10px double brown;
+}
+
+.row{
+    width:100%;
+    height:100px;
+    float:left;
+}
+
+.cell{
+     height:100px;
+     width:100px;
+     float:left;
+     font-size:75px;
+     text-align:center;
+}
+
+.cell:hover{
+    background:red;
+}
+
+.black{
+    background:lightgreen;
+    float:left;
+}
+
+.white{
+    color:rgb(224, 196, 36);
+}
