@@ -28,12 +28,12 @@ This is one of my first hands-on projects to understand how grid systems work in
 <hr/>
 
 ## 📁 File Structure
-
-chessboard/
-├── index.html # Main HTML file
-├── style.css # Custom CSS for layout
-├── chessBoardLayout.png # Project Screenshot
-└── README.md # This file
+chessboardlayout-project/
+│
+├── index.html            # Main HTML file
+├── style.css             # Custom CSS for layout
+├── chessBoardLayout.png  # Screenshot
+└── README.md             # This file
 
 
 <hr/>
